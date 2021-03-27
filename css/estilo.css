@@ -1,0 +1,23 @@
+body {margin: 0px;}
+
+
+
+.imagens{width: 200px;}
+.introduçao {color:seashell;
+    background-color: purple;
+    text-align: center;
+    margen:0px;
+    padding-top:  8px;
+    padding-bottom: 8px;
+}
+#rodape {background-color:rgb(95, 10, 95);
+text-align: center;}
+
+#img-final{width: 500px;
+display: block;
+margin-left: auto;
+margin-right: auto;}
+
+#margen{background-color: #d2bee4;
+    border: 15px solid #fff;}
+    #text{text-align: center;}
